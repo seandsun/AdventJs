@@ -18,7 +18,7 @@ El **[AdventJS](https://adventjs.dev/es)** es una serie de retos de programació
 | Ejercicio | Ingredientes para resolver el ejercicio | Año |
 |---|---|---|
 | `1` | Para resolver el reto es necesario un `set`, junto con un ciclo `for` y un condicional `if`| 2023 |
-| `2` | Para resolver el reto es necesario... | 2023 |
+| `2` | Para resolver el reto es necesario un `array`, un par de ciclos `for`, un par de condicionales `if` y una `bandera` o `booleano` | 2023 |
 | `3` | xxx | xxx |
 | `4` | xxx | xxx |
 | `5` | xxx | xxx |
